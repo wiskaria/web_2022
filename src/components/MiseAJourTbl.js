@@ -1,6 +1,6 @@
 import React from 'react';
 
-const MiseAJourTbl = ({editFormData,handleEditFormChange,handleCancelClick,}) => {
+const MiseAJourTbl = ({handleEditFormChange,handleCancelClick,}) => {
     return (
         <tr>
              <td>

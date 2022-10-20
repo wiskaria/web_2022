@@ -79,7 +79,7 @@ function App() {
       identite_nationale:nanoid(),
       nom: AddFormData.nom,
       date_de_naissance: AddFormData.date_de_naissance,
-      pays_de_naissance: AddFormData.phoneNumber,
+      pays_de_naissance: AddFormData.pays_de_naissance,
       pays_de_residence: AddFormData.pays_de_residence,
       sexe: AddFormData.sexe,
       etat_civil: AddFormData.etat_civil,
